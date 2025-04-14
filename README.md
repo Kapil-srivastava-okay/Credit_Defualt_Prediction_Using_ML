@@ -122,7 +122,7 @@ Predict whether a credit card client will default next month based on past payme
 **Kapil Srivastava**  
 MSc Data Science | Coventry University  
 📧 srivastavk@coventry.ac.uk  
-🔗 [LinkedIn Profile](#)
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/kapil-srivastava-730a4916a/)](#)
 
 ---
 
