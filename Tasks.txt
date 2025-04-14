@@ -1,0 +1,6 @@
+What to do:
+
+1. add readme
+2. check for other improvements
+3. make it more accurate 
+4. make it look like a project
